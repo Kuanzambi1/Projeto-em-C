@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1706212894 source:c:\proetoemc\projetoemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
